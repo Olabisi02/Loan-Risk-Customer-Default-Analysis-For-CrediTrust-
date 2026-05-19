@@ -20,7 +20,7 @@ The dataset was cleaned and prepared before analysis. Initial exploration was pe
  ## Insight
 
 1. What type of customers should the company avoid?
-2. 
+
 The company should avoid or carefully review customers with:
 * Previous default history 
 *	Low credit scores 
@@ -30,14 +30,14 @@ The company should avoid or carefully review customers with:
 These customers demonstrated significantly higher default rates and therefore pose greater financial risk to the company.
  
 2. What loan conditions should be stricter?
-3. 
+   
 Loan conditions should be stricter for customers identified as high risk. The company should:
 * Require higher credit score thresholds
 * Conduct stricter background checks 
 * Request additional financial documentation 
 *	Apply shorter repayment periods 
 *	Increase monitoring for customers with previous defaults
-*	
+  
 These measures can help reduce the probability of loan default.
 
 3. Should the company reduce loan amounts for certain customers?
@@ -47,7 +47,7 @@ Yes. Loan amounts should be reduced for customers with:
 *	Previous default records 
 *	High debt risk indicators 
 *	Unstable employment status
-*	
+  
 Reducing loan exposure for high-risk customers can minimize potential financial losses while still allowing controlled access to credit.
 
 
