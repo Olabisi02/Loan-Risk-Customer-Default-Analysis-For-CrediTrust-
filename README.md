@@ -24,11 +24,11 @@ The company should avoid or carefully review customers with:
 * Previous default history 
 *	Low credit scores 
 *	Unstable employment status 
-*	High-risk classifications 
+*	High-risk classifications
+  
 These customers demonstrated significantly higher default rates and therefore pose greater financial risk to the company.
- 2:
-What loan conditions should be stricter?
- Answer
+ 
+2. What loan conditions should be stricter?
 Loan conditions should be stricter for customers identified as high risk. The company should:
 •	Require higher credit score thresholds 
 •	Conduct stricter background checks 
