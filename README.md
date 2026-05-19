@@ -6,11 +6,11 @@ This project analyzes customer loan risk data to identify factors associated wit
  
 ## OBJECTIVES
 The objectives of this analysis are:
-*To identify risky customer profiles 
-*To evaluate factors influencing loan default 
-*To determine whether loan conditions should be stricter 
-*To assess if loan amounts should be reduced for certain customers 
-*To build a simple predictive model for default risk
+* To identify risky customer profiles 
+* To evaluate factors influencing loan default 
+* To determine whether loan conditions should be stricter 
+* To assess if loan amounts should be reduced for certain customers 
+* To build a simple predictive model for default risk
 
 
 ## DATA CLEANING AND PREPARATION
@@ -18,13 +18,13 @@ The dataset was cleaned and prepared before analysis. Initial exploration was pe
 
 
  ## Insight
-  1:
-What type of customers should the company avoid?
+
+1. What type of customers should the company avoid?
 The company should avoid or carefully review customers with:
-•	Previous default history 
-•	Low credit scores 
-•	Unstable employment status 
-•	High-risk classifications 
+* Previous default history 
+*	Low credit scores 
+*	Unstable employment status 
+*	High-risk classifications 
 These customers demonstrated significantly higher default rates and therefore pose greater financial risk to the company.
  2:
 What loan conditions should be stricter?
