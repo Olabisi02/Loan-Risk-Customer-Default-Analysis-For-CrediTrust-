@@ -37,6 +37,11 @@ The dataset was cleaned and prepared before analysis. Initial exploration was pe
 <img width="361" height="293" alt="Screenshot 2026-05-20 112729" src="https://github.com/user-attachments/assets/139f696a-c780-48b5-bdae-036ee5ef3955" />
 
 
+## Loan Risk & Customer Default Analysis Dashboard
+<img width="587" height="391" alt="Screenshot 2026-05-20 112813" src="https://github.com/user-attachments/assets/49922909-9900-48ac-aa75-02fda6a92bce" />
+
+
+
 
 
  ## Insight
