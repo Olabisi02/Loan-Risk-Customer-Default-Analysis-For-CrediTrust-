@@ -21,6 +21,17 @@ The dataset was cleaned and prepared before analysis. Initial exploration was pe
 <img width="503" height="239" alt="Screenshot 2026-05-20 112155" src="https://github.com/user-attachments/assets/9477e360-75fe-4194-9149-d6fe876c3a84" />
 
 
+## Default Rate by Credit Score Group 
+<img width="365" height="276" alt="Screenshot 2026-05-20 112452" src="https://github.com/user-attachments/assets/7ffaa487-fc22-4b5b-b8b8-b6ea66bd110f" />
+
+
+## 'Default Rate by Previous Default History
+<img width="395" height="272" alt="Screenshot 2026-05-20 112513" src="https://github.com/user-attachments/assets/b2cd6ee4-e338-4ddd-b24b-6fcd3a84aa57" />
+
+## Default Rate by Employment Status
+<img width="365" height="289" alt="Screenshot 2026-05-20 112640" src="https://github.com/user-attachments/assets/cd90204a-4b36-412c-a7f7-6a5acddb0efa" />
+
+
 
  ## Insight
 
