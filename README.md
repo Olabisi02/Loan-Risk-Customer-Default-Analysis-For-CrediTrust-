@@ -33,6 +33,11 @@ The dataset was cleaned and prepared before analysis. Initial exploration was pe
 <img width="365" height="289" alt="Screenshot 2026-05-20 112640" src="https://github.com/user-attachments/assets/cd90204a-4b36-412c-a7f7-6a5acddb0efa" />
 
 
+## Distribution of Customer Risk Categories
+<img width="361" height="293" alt="Screenshot 2026-05-20 112729" src="https://github.com/user-attachments/assets/139f696a-c780-48b5-bdae-036ee5ef3955" />
+
+
+
 
  ## Insight
 
