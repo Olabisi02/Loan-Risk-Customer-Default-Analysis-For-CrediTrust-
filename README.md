@@ -26,7 +26,8 @@ The dataset was cleaned and prepared before analysis. Initial exploration was pe
 
 
 ## 'Default Rate by Previous Default History
-<img width="395" height="272" alt="Screenshot 2026-05-20 112513" src="https://github.com/user-attachments/assets/b2cd6ee4-e338-4ddd-b24b-6fcd3a84aa57" />
+<img width="380" height="243" alt="Screenshot 2026-05-20 112552" src="https://github.com/user-attachments/assets/dfa0195e-4b54-4e39-8f82-ab44598e1d20" />
+
 
 ## Default Rate by Employment Status
 <img width="365" height="289" alt="Screenshot 2026-05-20 112640" src="https://github.com/user-attachments/assets/cd90204a-4b36-412c-a7f7-6a5acddb0efa" />
